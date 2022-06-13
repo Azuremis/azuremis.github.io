@@ -1,2 +1,2 @@
 # azuremis.github.io
-My numerai portfolio 
+A simple website to share my adventures with the [Numerai]([url](https://numer.ai/)) hedgefund.
